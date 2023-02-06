@@ -1,0 +1,14 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+li {
+    margin: 10px;
+}
+
+.AA {
+    display: inline-block;
+    background-color: #8ff8ff57;
+    border: 1px solid #8ff8ff57;
+    padding: 0.5em 1.5em;
+}
